@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1. Inception
 2. The Dark Knight
 3. Interstellar
+=======
+1. Breaking Bad
+2. Game of Thrones
+3. The Crown
+>>>>>>> series
